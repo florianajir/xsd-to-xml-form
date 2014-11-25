@@ -11,6 +11,8 @@ This sources come from my work on SEDA schema parsing and form generating for XM
 
 [schema2form2xml](https://github.com/florianajir/schema2form2xml) - Project page
 
+[W3C/XML/Schema](http://www.w3.org/XML/Schema) - W3C XML Schema page
+
 [UN/CEFACT](http://www.unece.org/cefact.html) - UN Centre for Trade Facilitation and E-business (UN/CEFACT)
 
 
